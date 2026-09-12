@@ -1,0 +1,9 @@
+# Build products
+build/
+*.app/
+
+.signing/
+*.p12
+*.pem
+
+.DS_Store
